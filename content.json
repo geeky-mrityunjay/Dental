@@ -1,0 +1,43 @@
+{
+  "clinic": "Happi Smiles",
+  "phone": "+91 70197 25870",
+  "whatsapp": "917019725870",
+  "treatments": [
+    {
+      "title": "Smile Design",
+      "category": "COSMETIC DENTISTRY",
+      "description": "A considered approach to a brighter, naturally beautiful smile.",
+      "detail": "Explore teeth whitening, veneers and gum contouring with a plan shaped around your features and your goals. We assess your oral health first and discuss suitable options before treatment."
+    },
+    {
+      "title": "Dental Implants",
+      "category": "RESTORATIVE CARE",
+      "description": "Restore your smile. Rediscover everyday confidence.",
+      "detail": "Dental implants can replace one or more missing teeth. Our team offers single and multiple implants, implant-supported dentures and full-arch options. A consultation helps determine your suitability and treatment plan."
+    },
+    {
+      "title": "Root Canal Care",
+      "category": "SPECIALIST ENDODONTICS",
+      "description": "Precision-led treatment to preserve your natural teeth.",
+      "detail": "Led by Dr. Harpreet Singh, our endodontic care includes root canal treatment, re-treatment and microscopic root canal procedures. We focus on treating the source of discomfort and preserving your natural tooth wherever possible."
+    },
+    {
+      "title": "Braces & Aligners",
+      "category": "ORTHODONTICS",
+      "description": "Thoughtfully aligned teeth, for a smile that feels like you.",
+      "detail": "Choose from metal, ceramic and lingual braces, or explore clear aligners. We assess your bite, explain the options and help you understand the expected timeline and ongoing care."
+    },
+    {
+      "title": "Family Dentistry",
+      "category": "CARE FOR EVERY AGE",
+      "description": "Gentle, attentive care for every member of your family.",
+      "detail": "From children’s dental visits to routine examinations, fillings and preventive care, we help the whole family build healthy habits and maintain their smiles."
+    },
+    {
+      "title": "Gum & Oral Care",
+      "category": "PREVENTIVE DENTISTRY",
+      "description": "Healthy foundations for a smile that lasts.",
+      "detail": "Professional cleaning, scaling and gum disease treatment help protect your oral health. We also provide wisdom tooth assessment and oral surgery consultations when needed."
+    }
+  ]
+}
